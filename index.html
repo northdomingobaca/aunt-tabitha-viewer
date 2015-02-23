@@ -1,0 +1,97 @@
+<html>
+<head>
+  <style>
+    body {
+      font-size: 6vh;
+      font-family: verdana;
+    }
+    .class.inactive {
+      text-decoration: line-through;
+      color: red; 
+    }
+    .class.active {
+
+    }
+    .class.even {
+    
+    }
+    .class.odd {
+      background: #E8E8E8;
+    }
+    .class.test1 {
+      background: #E80000;
+    }
+    .class.test2 {
+      background: #00E800;
+    }
+    table {
+      font-size: 5vh;
+      width: 100%;
+    }
+    img {
+      height: 100%;
+    }
+
+    .container {
+      width: 1270px;
+      height: 700px;
+      background: white;
+      overflow: hidden;
+    }
+
+    .header {
+      height: 12vh;
+      width: 100%;
+    }
+
+    .content {
+
+    }
+
+    .left-header {
+      float:left;
+    }    
+    .logo {
+      float:left;
+      margin: 0 2vh;
+    }
+    .right-header {
+      float:left;
+    }
+  </style>
+  <script src="angular.min.js"></script>
+  <script src="tabitha.js"></script>
+</head>
+<body ng-app="app">
+  <div class="container">
+    <div class="header" ng-controller="schedule">
+      <div class="left-header">
+        Activities<br><div ng-bind="schedule.day"></div>
+      </div>  
+      <img class="logo" src="logoball.png"></img>
+      <div class="right-header">
+        North Domingo Baca<br><div ng-bind="time_12(current_time)"></div>
+      </div>
+    </div>
+    <div class="content">  
+      <table id="bitch" ng-controller="schedule">
+        <tbody>
+          <tr 
+            class="class" 
+        ng-class="{'active': class.active, 'inactive': !class.active,
+                   'even': !($index % 2), 'odd': $index % 2,
+                   'test1': ($index == 10 && testing), 
+                   'test2': ($index == 12 && testing)}"
+            ng-click="class.active = !class.active" 
+            ng-repeat="class in schedule.classes | future : blah">
+              <td>{{ class.active ? (time_12(class.begin) + "-" + time_12(class.end)) : "CANCELLED" }}
+              <td>{{ class.name }}</td>
+              <td>{{ class.active ? class.room : "CANCELLED" }}</td>
+        </tbody>
+      </table>
+    </div>
+  </div> 
+</body>
+</html>
+
+<!--ng-class="{'active' + ($index % 2): class.active, 'inactive' + ($index % 2): !class.active}" -->

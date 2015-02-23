@@ -1,0 +1,871 @@
+{
+  "2015-02-23": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:00 AM",
+        "end": "5:00 PM",
+        "name": "AARP TAX PREPARATION",
+        "room": "Classroom 2"
+      },
+      {
+        "active": true,
+        "begin": "8:00 AM",
+        "end": "2:30 PM",
+        "name": "AARP Taxes",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "8:00 AM",
+        "end": "12:00 PM",
+        "name": "APS Transition Services",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "8:05 AM",
+        "end": "9:05 AM",
+        "name": "Enhanced Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "8:30 AM",
+        "end": "10:00 AM",
+        "name": "Men's Bible Study Group",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "8:30 AM",
+        "end": "12:30 PM",
+        "name": "Watercolor For Fun",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "10:00 AM",
+        "name": "Yoga",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "9:10 AM",
+        "end": "10:10 AM",
+        "name": "Zumba Gold",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "10:00 AM",
+        "end": "12:00 PM",
+        "name": "Do Terra Leadership Lounge",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "10:15 AM",
+        "end": "11:20 AM",
+        "name": "Enhance Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "12:45 PM",
+        "end": "2:45 PM",
+        "name": "Beginning Spanish",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "1:00 PM",
+        "end": "4:00 PM",
+        "name": "Pottery",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "6:00 PM",
+        "name": "After-school Program",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "4:30 PM",
+        "name": "After-school Program",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "3:30 PM",
+        "name": "Wordwrights Writing Class",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "3:00 PM",
+        "end": "4:00 PM",
+        "name": "Aikido After-school Program",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "4:30 PM",
+        "end": "5:30 PM",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "8:30 PM",
+        "name": "Cyberscribes Writing Group",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "8:30 PM",
+        "name": "Bead Society of NM Meeting",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "8:30 PM",
+        "name": " Beg. Essential Oils",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:30 PM",
+        "name": "60+ Singles meet up",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "7:00 PM",
+        "end": "8:30 PM",
+        "name": "Aikido",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "7:15 PM",
+        "end": "8:15 PM",
+        "name": "TaeKwondo",
+        "room": "Social Hall"
+      }
+    ],
+    "day": "Monday Feb 23, 2015",
+    "end_margin": 0,
+    "start_margin": 60
+  },
+  "2015-02-24": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:30 AM",
+        "end": "12:00 PM",
+        "name": "Watercolor Class",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "12:00 PM",
+        "name": "Hearts/Spades",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "9:10 AM",
+        "end": "10:10 AM",
+        "name": "Zumba Gold",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:30 AM",
+        "end": "12:00 PM",
+        "name": "Native American Training",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "10:00 AM",
+        "end": "12:00 PM",
+        "name": "TOPS",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "12:00 PM",
+        "end": "4:00 PM",
+        "name": "HANDBUILT POTTERY",
+        "room": "Kiln Room"
+      },
+      {,
+      {
+        "active": true,
+        "begin": "12:00 PM",
+        "end": "4:00 PM",
+        "name": "Mah Jong",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "6:00 PM",
+        "name": "After-school Program",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "4:30 PM",
+        "name": "After-school Program",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "3:30 PM",
+        "end": "7:00 PM",
+        "name": "UNM Master Study Group",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "4:30 PM",
+        "end": "5:30 PM",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "5:15 PM",
+        "end": "7:15 PM",
+        "name": "Kiwanis Club of Coronado",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "5:45 PM",
+        "end": "7:30 PM",
+        "name": "Intermediate Line Dancing",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:30 PM",
+        "name": "ABQ Tea Party",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:00 PM",
+        "name": "Eastdale Little League Softball",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "6:45 PM",
+        "end": "8:30 PM",
+        "name": "Meetings of the Mind",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "7:00 PM",
+        "end": "8:30 PM",
+        "name": "AIKIDO",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "7:00 PM",
+        "end": "8:30 PM",
+        "name": "Croak & Dagger Mystery",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "7:15 PM",
+        "end": "8:15 PM",
+        "name": "TaeKwondo",
+        "room": "Classroom 4"
+      }
+    ],
+    "day": "Tuesday Feb 24, 2015",
+    "end_margin": 0,
+    "start_margin": 60
+  },
+  "2015-02-25": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:00 AM",
+        "end": "12:00 PM",
+        "name": "APS Transition Services",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "8:05 AM",
+        "end": "9:05 AM",
+        "name": "Enhance Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "8:30 AM",
+        "end": "11:30 AM",
+        "name": "Photography",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "10:00 AM",
+        "name": "Bible Study",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "9:10 AM",
+        "end": "10:10 AM",
+        "name": "Zumba Gold",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:30 AM",
+        "end": "11:00 AM",
+        "name": "Fractal Foundation",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "10:00 AM",
+        "end": "12:00 PM",
+        "name": "Poerty Critique Group",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "10:15 AM",
+        "end": "11:20 AM",
+        "name": "Enhance Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "10:15 AM",
+        "end": "11:15 AM",
+        "name": "Laughter Group",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "1:00 PM",
+        "end": "3:00 PM",
+        "name": "Basic HandsOn",
+        "room": "Computer Lounge"
+      },
+      {
+        "active": true,
+        "begin": "1:00 PM",
+        "end": "4:15 PM",
+        "name": "French",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "6:00 PM",
+        "name": "After-school Program",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "4:30 PM",
+        "name": "After-school Program",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "3:30 PM",
+        "end": "7:00 PM",
+        "name": "UNM Master Study Group",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "5:30 PM",
+        "end": "7:30 PM",
+        "name": "Beginning Oil Painting",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "5:30 PM",
+        "end": "6:30 PM",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:30 PM",
+        "name": "Community Bible Study",
+        "room": "Cardroom, Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:30 PM",
+        "name": "Council of Car Clubs",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:30 PM",
+        "name": "Essential Oils Basics Classes",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "7:00 PM",
+        "end": "8:45 PM",
+        "name": "KENDO",
+        "room": "Social Hall"
+      }
+    ],
+    "day": "Wednesday Feb 25, 2015",
+    "end_margin": 0,
+    "start_margin": 60
+  },
+  "2015-02-26": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:05 AM",
+        "end": "9:05 AM",
+        "name": "Enhance Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "11:00 AM",
+        "name": "Basic HandsOn",
+        "room": "Computer Lounge"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "3:00 PM",
+        "name": "Chair Massage",
+        "room": "Lobby"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "10:00 AM",
+        "name": "Weekly Progress Meeting C.O.A.",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "9:10 AM",
+        "end": "10:10 AM",
+        "name": "Zumba Gold",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:30 AM",
+        "end": "10:30 AM",
+        "name": "Feldenkrais",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "9:30 AM",
+        "end": "12:00 PM",
+        "name": "Pottery",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "10:15 AM",
+        "end": "11:20 AM",
+        "name": "Enhance Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "11:00 AM",
+        "end": "12:30 PM",
+        "name": "History of the Bible",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "12:30 PM",
+        "end": "5:30 PM",
+        "name": "MAH JONG",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "12:45 PM",
+        "end": "2:45 PM",
+        "name": "Beginning Spanish",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "1:15 PM",
+        "end": "2:30 PM",
+        "name": "Beginning Line Dancing",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "6:00 PM",
+        "name": "After-school Program",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "4:30 PM",
+        "name": "After-school Program",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "4:30 PM",
+        "name": "Silversmith III",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "3:30 PM",
+        "end": "7:00 PM",
+        "name": "UNM Master Study Group",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "4:45 PM",
+        "end": "5:45 PM",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "7:00 PM",
+        "name": "Feldenkrais",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "8:00 PM",
+        "name": "H.A.C. Meeting",
+        "room": "Classroom 2"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "8:00 PM",
+        "name": "Photography",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "9:00 PM",
+        "name": "Sandia H.S. Swim Banquet",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "9:00 PM",
+        "name": "Sandia H.S. Swim Banquet",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:00 PM",
+        "name": "Cub Scouts",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:00 PM",
+        "name": "History of the Bible",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "6:45 PM",
+        "end": "8:00 PM",
+        "name": "Ventura Estates HOA Meeting",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "7:00 PM",
+        "end": "8:30 PM",
+        "name": "Bocce Tournament Committee",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "7:00 PM",
+        "end": "8:15 PM",
+        "name": "Vineyard Estates N.A.",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "7:15 PM",
+        "end": "8:15 PM",
+        "name": "Taekwondo",
+        "room": "Classroom 4"
+      }
+    ],
+    "day": "Thursday Feb 26, 2015",
+    "end_margin": 0,
+    "start_margin": 60
+  },
+  "2015-02-27": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "10:00 AM",
+        "end": "3:00 PM",
+        "name": "Homeschool Cooperative Classes",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "11:00 AM",
+        "end": "12:00 PM",
+        "name": "The Best Kept Health Secret",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "11:30 AM",
+        "end": "1:00 PM",
+        "name": "Pie Social",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "11:30 AM",
+        "end": "12:30 PM",
+        "name": "Yang Style Tai Chi",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "12:00 PM",
+        "end": "5:00 PM",
+        "name": "Mah Jong",
+        "room": "Classroom /CardTables"
+      },
+      {
+        "active": true,
+        "begin": "12:00 PM",
+        "end": "1:00 PM",
+        "name": "Meditation Circle",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "1:00 PM",
+        "end": "3:00 PM",
+        "name": "Classic Kids Book Club",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "1:00 PM",
+        "end": "2:00 PM",
+        "name": "Yoga",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "6:00 PM",
+        "name": "After-school Program",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "1:30 PM",
+        "end": "4:30 PM",
+        "name": "After-school Program",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "4:45 PM",
+        "end": "5:45 PM",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "7:30 PM",
+        "name": "Family Centered Prayer Battle",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "9:00 PM",
+        "name": "La Cueva Wrestling Banquet",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:00 PM",
+        "end": "9:00 PM",
+        "name": "La Cueva Wrestling Banquet",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "6:30 PM",
+        "end": "8:30 PM",
+        "name": "Unite Skate Ministry",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "7:00 PM",
+        "end": "8:30 PM",
+        "name": "Magic Classes",
+        "room": "Classroom 4"
+      }
+    ],
+    "day": "Friday Feb 27, 2015",
+    "end_margin": 0,
+    "start_margin": 60
+  },
+  "2015-02-28": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "11:45 AM",
+        "name": "Aikido",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "3:00 PM",
+        "name": "National Federation of Blind ABQ.",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "12:00 PM",
+        "name": "Rio Grande Model Railroad Club",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "9:00 AM",
+        "end": "10:30 AM",
+        "name": "Women's Bible Study",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "9:10 AM",
+        "end": "10:10 AM",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:15 AM",
+        "end": "11:15 AM",
+        "name": "Drawing",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "9:30 AM",
+        "end": "11:30 AM",
+        "name": "Intermediate French Class",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "10:00 AM",
+        "end": "12:00 PM",
+        "name": "ABQ. Tea Party",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "12:00 PM",
+        "end": "2:30 PM",
+        "name": "ABQ. Gluten Intolerance Support",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "12:00 PM",
+        "end": "2:30 PM",
+        "name": "Handbuilt Clay/Sculpture",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "12:30 PM",
+        "end": "2:30 PM",
+        "name": "Sibyls of the Southwest",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "1:00 PM",
+        "end": "2:00 PM",
+        "name": "Zumba Fitness",
+        "room": "Social Hall"
+      }
+    ],
+    "day": "Saturday Feb 28, 2015",
+    "end_margin": 0,
+    "start_margin": 60
+  }
+}
