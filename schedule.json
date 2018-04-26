@@ -1,1173 +1,4 @@
 {
-  "2018-04-16": {
-    "classes": [
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "9:00",
-        "name": "Tax Day",
-        "room": "United States"
-      },
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "17:00",
-        "name": "AARP Taxes",
-        "room": "Classroom 2"
-      },
-      {
-        "active": true,
-        "begin": "8:05",
-        "end": "9:05",
-        "name": "Enhance Fitness",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "8:15",
-        "end": "9:15",
-        "name": "Aerobics",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "10:30",
-        "name": "Bible Study Group",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "12:30",
-        "name": "Watercolor for Fun",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "10:00",
-        "name": "Yoga",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "9:05",
-        "end": "10:05",
-        "name": "Zumba",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
-        "end": "10:30",
-        "name": "Gentle Exercise",
-        "room": "Mia"
-      },
-      {
-        "active": true,
-        "begin": "10:00",
-        "end": "12:00",
-        "name": "ABQ Homeschool Science Co-op",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "10:15",
-        "end": "11:15",
-        "name": "EnhanceFitness",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "16:00",
-        "name": "Mah Jong",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "15:00",
-        "name": "Reiki & Massage Demostrations",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "13:30",
-        "end": "15:30",
-        "name": "Wordwrights Writing Class",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "17:30",
-        "name": "After-school Program",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "18:00",
-        "name": "After-school Program NDB",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "15:30",
-        "name": "Tribal Belly Dance",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "16:00",
-        "end": "16:30",
-        "name": "Crosstrain",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "16:00",
-        "end": "18:00",
-        "name": "Women Veterans of NM",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "16:30",
-        "end": "18:40",
-        "name": "Jazzercise",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "17:45",
-        "end": "18:45",
-        "name": "Vinyasa Flow Yoga",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:30",
-        "name": "COA Land Use",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "21:00",
-        "name": "Cyberscribes",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:00",
-        "name": "Hadassah",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "20:30",
-        "name": "Canasta 60+ Singles meet up",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "20:00",
-        "name": "Essential Oils for Beginners",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "19:15",
-        "end": "20:15",
-        "name": "TaeKwondo",
-        "room": "Social Hall"
-      }
-    ],
-    "day": "Monday Apr 16, 2018",
-    "end_margin": 0,
-    "start_margin": 60
-  },
-  "2018-04-17": {
-    "classes": [
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "13:00",
-        "name": "Indian Area Agency on Aging",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "8:05",
-        "end": "9:00",
-        "name": "Jazzercise",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "12:00",
-        "name": "Hearts/Spades",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "13:00",
-        "name": "Pottery Class",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "12:00",
-        "name": "Watercolor Group",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "9:05",
-        "end": "10:05",
-        "name": "Zumba",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
-        "end": "10:30",
-        "name": "Zumba",
-        "room": "Aerobics RM"
-      },
-      {
-        "active": true,
-        "begin": "10:00",
-        "end": "12:00",
-        "name": "TOPS",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "10:15",
-        "end": "11:15",
-        "name": "Flex & Tone",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "10:30",
-        "end": "11:30",
-        "name": "Tai Chi",
-        "room": "Aerobics RM"
-      },
-      {
-        "active": true,
-        "begin": "11:30",
-        "end": "13:30",
-        "name": "A Matter of Balance Class",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "11:30",
-        "end": "13:30",
-        "name": "Rotary Club",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "12:30",
-        "end": "16:30",
-        "name": "Mah Jong",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "16:00",
-        "name": "After-school Program",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "16:30",
-        "name": "Homeschool Science Classes",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "15:30",
-        "end": "18:00",
-        "name": "After-school Program NDB",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "15:30",
-        "end": "16:30",
-        "name": "Mat Pilates",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "16:30",
-        "end": "20:30",
-        "name": "Game Night W.I.T.",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "16:30",
-        "end": "17:30",
-        "name": "Jazzercise",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "16:45",
-        "end": "17:45",
-        "name": "Hula & Hawaiian Culture",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "17:30",
-        "end": "19:30",
-        "name": "Desert Ridge HOA",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "17:30",
-        "end": "19:30",
-        "name": "NM Solar Energy",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "17:30",
-        "end": "20:30",
-        "name": "Trementina HOA",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "17:45",
-        "end": "19:30",
-        "name": "Intermediate Line Dancing",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:30",
-        "name": "Practical Acting",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "18:15",
-        "end": "18:45",
-        "name": "Dance Fit",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "19:00",
-        "end": "20:30",
-        "name": "St. Andrew Scottish Society",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "19:00",
-        "end": "20:30",
-        "name": "Xi Delta",
-        "room": "Classroom 11"
-      },
-      {
-        "active": true,
-        "begin": "19:15",
-        "end": "20:30",
-        "name": "Aikido",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "19:15",
-        "end": "20:15",
-        "name": "TaeKwondo",
-        "room": "Classroom 4"
-      }
-    ],
-    "day": "Tuesday Apr 17, 2018",
-    "end_margin": 0,
-    "start_margin": 60
-  },
-  "2018-04-18": {
-    "classes": [
-      {
-        "active": true,
-        "begin": "8:05",
-        "end": "9:05",
-        "name": "Enhance Fitness",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "8:15",
-        "end": "9:15",
-        "name": "Aerobics",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "8:30",
-        "end": "11:30",
-        "name": "Photography",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "10:00",
-        "name": "Bible Study",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "11:00",
-        "name": "O2 Training",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "13:00",
-        "name": "Pottery Class",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "10:00",
-        "name": "Spanish Level 2",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "12:00",
-        "name": "APS Transition Services",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "9:05",
-        "end": "10:05",
-        "name": "Zumba",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "9:15",
-        "end": "12:00",
-        "name": "Excel 2010 & Up, Level 1",
-        "room": "Classroom 2"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
-        "end": "10:30",
-        "name": "Gentle Exercise",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "10:00",
-        "end": "13:00",
-        "name": "Poetry Critique Group",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "10:15",
-        "end": "11:15",
-        "name": "EnhanceFitness",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "10:15",
-        "end": "11:00",
-        "name": "Laughter Group",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "10:30",
-        "end": "11:30",
-        "name": "Spanish Inter/Advanced",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "10:30",
-        "end": "14:30",
-        "name": "UNM Childrens Hospital",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "16:30",
-        "name": "Mah Jong",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "16:00",
-        "name": "Shrinking Violets",
-        "room": "Classroom 11"
-      },
-      {
-        "active": true,
-        "begin": "13:30",
-        "end": "14:30",
-        "name": "Zumbini",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "17:30",
-        "name": "After-school Program",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "18:00",
-        "name": "After-school Program NDB",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "15:00",
-        "end": "17:00",
-        "name": "Japanese Study Group",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "16:30",
-        "end": "18:45",
-        "name": "Jazzercise",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "17:45",
-        "end": "19:15",
-        "name": "Toastmasters \"Off-the-Cuff\"",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:00",
-        "name": "ABQ REIA - Real Estate",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:00",
-        "name": "Memoir Writers of NM",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "20:30",
-        "name": "Community Bible Study",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "20:30",
-        "name": "District 4 Council Winters",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "18:45",
-        "end": "20:45",
-        "name": "Kendo",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "19:00",
-        "end": "20:30",
-        "name": "BSA Troop 220",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "19:00",
-        "end": "21:00",
-        "name": "St. Andrews Scottish Society",
-        "room": "Classroom 7"
-      }
-    ],
-    "day": "Wednesday Apr 18, 2018",
-    "end_margin": 0,
-    "start_margin": 60
-  },
-  "2018-04-19": {
-    "classes": [
-      {
-        "active": true,
-        "begin": "8:05",
-        "end": "9:00",
-        "name": "Jazzercise",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "8:30",
-        "end": "9:30",
-        "name": "Yoga for Fitness",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "13:00",
-        "name": "Card Playing",
-        "room": "Classroom 11"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "12:00",
-        "name": "Classics Class",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "11:00",
-        "name": "O2 Training",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "9:05",
-        "end": "10:05",
-        "name": "Zumba",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "9:15",
-        "end": "12:00",
-        "name": "Excel 2010 & Up, Level 1",
-        "room": "Classroom 2"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
-        "end": "10:30",
-        "name": "Feldenkrias",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
-        "end": "11:30",
-        "name": "UPS Store",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "10:15",
-        "end": "11:15",
-        "name": "Flex & Tone",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "10:30",
-        "end": "13:00",
-        "name": "Chair Massage",
-        "room": "Lobby"
-      },
-      {
-        "active": true,
-        "begin": "10:30",
-        "end": "11:30",
-        "name": "Yoga",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "11:30",
-        "end": "15:00",
-        "name": "Japanese Play Group",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "15:00",
-        "name": "Autism Learning Partners",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "16:00",
-        "name": "Expressive Arts for Grief",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "17:00",
-        "name": "Mah Jong",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "12:30",
-        "end": "14:30",
-        "name": "Multiple Sclerosis Self-Help",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "13:30",
-        "end": "15:00",
-        "name": "Beginning Line Dancing",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "13:30",
-        "end": "15:30",
-        "name": "Homeschool Art",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "17:30",
-        "name": "After-school Program",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "18:00",
-        "name": "After-school Program NDB",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "16:00",
-        "name": "Chinese Folk Dance",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "15:30",
-        "end": "18:30",
-        "name": "ICF NM Program",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "16:30",
-        "end": "18:45",
-        "name": "Jazzercise",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "19:00",
-        "name": "Feldenkrais",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:00",
-        "name": "Photography",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:00",
-        "name": "Prospector's Point HOA",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "19:00",
-        "name": "Yoga for Fitness",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "20:00",
-        "name": "Heritage East HOA",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "19:00",
-        "end": "20:00",
-        "name": "Beginning Ballroom Dancing",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "19:15",
-        "end": "20:30",
-        "name": "Aikido",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "19:15",
-        "end": "20:15",
-        "name": "Taekwondo",
-        "room": "Classroom 4"
-      }
-    ],
-    "day": "Thursday Apr 19, 2018",
-    "end_margin": 0,
-    "start_margin": 60
-  },
-  "2018-04-20": {
-    "classes": [
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "12:00",
-        "name": "APS Transition Services",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "8:05",
-        "end": "9:05",
-        "name": "Enhance Fitness",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "8:15",
-        "end": "9:15",
-        "name": "Aerobics",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "10:30",
-        "name": "Family Centered Prayer Battle",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "11:00",
-        "name": "Learn To Draw with Kelly",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "9:05",
-        "end": "10:05",
-        "name": "Zumba",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
-        "end": "10:30",
-        "name": "Gentle Exercise",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "10:00",
-        "end": "11:30",
-        "name": "Bone Health Care",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "10:00",
-        "end": "16:00",
-        "name": "Quilting Cluster",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "10:15",
-        "end": "11:15",
-        "name": "EnhanceFitness",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "11:00",
-        "end": "12:30",
-        "name": "Kundalini Yoga & Meditation",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "11:30",
-        "end": "12:30",
-        "name": "Tai Chi",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "13:30",
-        "name": "ABQ Grief Support Partners",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "17:00",
-        "name": "Mah Jong",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "12:30",
-        "end": "13:30",
-        "name": "Spanish Level 1",
-        "room": "Communitry Room"
-      },
-      {
-        "active": true,
-        "begin": "13:00",
-        "end": "14:00",
-        "name": "Yoga",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "17:30",
-        "name": "After-school Program",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "14:30",
-        "end": "18:00",
-        "name": "After-school Program NDB",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "16:00",
-        "end": "16:30",
-        "name": "Hard Core Abs",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "17:00",
-        "end": "18:30",
-        "name": "Belly Dance Foundations",
-        "room": "Aerobic Room"
-      },
-      {
-        "active": true,
-        "begin": "17:00",
-        "end": "20:00",
-        "name": "LaCueva Soccer",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "19:30",
-        "name": "Aikido",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:00",
-        "name": "Cardmaking 101",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:30",
-        "name": "Casting Coffee",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:30",
-        "name": "Movie \"Lost Horizon\"",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "20:00",
-        "name": "Healthy Living",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "19:30",
-        "name": "New Mexico Corvette Assoc.",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "19:00",
-        "end": "20:30",
-        "name": "New Vision for Humanity",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "19:00",
-        "end": "19:30",
-        "name": "The Sound of Soul",
-        "room": "Classroom 3"
-      }
-    ],
-    "day": "Friday Apr 20, 2018",
-    "end_margin": 0,
-    "start_margin": 60
-  },
-  "2018-04-21": {
-    "classes": [
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "14:45",
-        "name": "A.C.R.E.",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
-        "begin": "9:00",
-        "end": "11:00",
-        "name": "Frontline Families",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "9:10",
-        "end": "10:10",
-        "name": "Zumba",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "9:15",
-        "end": "11:15",
-        "name": "Drawing",
-        "room": "Classroom 11"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
-        "end": "11:00",
-        "name": "Intermediate French Class",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "10:30",
-        "end": "12:45",
-        "name": "Beginning Ballroom Dancing",
-        "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "11:00",
-        "end": "15:00",
-        "name": "Paranormal NM Group",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "11:30",
-        "end": "15:00",
-        "name": "Canasta",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
-        "begin": "11:30",
-        "end": "14:30",
-        "name": "Casting Coffee",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "12:00",
-        "end": "14:30",
-        "name": "Words of Peace Global Presentation",
-        "room": "Classroom 1"
-      },
-      {
-        "active": true,
-        "begin": "12:30",
-        "end": "14:30",
-        "name": "N M State Poetry Society",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "13:00",
-        "end": "14:30",
-        "name": "Beginning Hebrew",
-        "room": "Classroom 3"
-      }
-    ],
-    "day": "Saturday Apr 21, 2018",
-    "end_margin": 0,
-    "start_margin": 60
-  },
   "2018-04-23": {
     "classes": [
       {
@@ -2222,6 +1053,1119 @@
       }
     ],
     "day": "Saturday Apr 28, 2018",
+    "end_margin": 225,
+    "start_margin": 465
+  },
+  "2018-04-30": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:05",
+        "end": "9:05",
+        "name": "Enhance Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "8:15",
+        "end": "9:15",
+        "name": "Aerobics",
+        "room": "Aerobics Room"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "10:30",
+        "name": "Bible Study Group",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "10:00",
+        "name": "Yoga",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "9:05",
+        "end": "10:05",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:30",
+        "end": "10:30",
+        "name": "Gentle Exercise",
+        "room": "Mia"
+      },
+      {
+        "active": true,
+        "begin": "10:00",
+        "end": "12:00",
+        "name": "ABQ Homeschool Science Co-op",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "10:00",
+        "end": "11:00",
+        "name": "Duke City Homeschool",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "10:15",
+        "end": "11:15",
+        "name": "EnhanceFitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "12:00",
+        "end": "16:00",
+        "name": "Mah Jong",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "13:00",
+        "end": "16:00",
+        "name": "NM Mortgage Authority",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "13:30",
+        "end": "15:30",
+        "name": "Wordwrights Writing Class",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "17:30",
+        "name": "After-school Program",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "18:00",
+        "name": "After-school Program NDB",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "15:30",
+        "name": "Tribal Belly Dance",
+        "room": "Lisa Little"
+      },
+      {
+        "active": true,
+        "begin": "16:00",
+        "end": "16:30",
+        "name": "Crosstrain",
+        "room": "Ericka"
+      },
+      {
+        "active": true,
+        "begin": "16:30",
+        "end": "18:40",
+        "name": "Jazzercise",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "17:45",
+        "end": "18:45",
+        "name": "Vinyasa Flow Yoga",
+        "room": "Misa Romero"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:00",
+        "name": "Albuquerque Traders",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "21:00",
+        "name": "Cyberscribes",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "20:30",
+        "name": "Canasta 60+ Singles meet up",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "19:15",
+        "end": "20:15",
+        "name": "TaeKwondo",
+        "room": "Social Hall"
+      }
+    ],
+    "day": "Monday Apr 30, 2018",
+    "end_margin": 75,
+    "start_margin": 225
+  },
+  "2018-05-01": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:05",
+        "end": "9:00",
+        "name": "Jazzercise",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "12:00",
+        "name": "Hearts/Spades",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "12:00",
+        "name": "Watercolor Group",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "9:05",
+        "end": "10:05",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:15",
+        "end": "10:15",
+        "name": "Zumba",
+        "room": "Aerobics Room"
+      },
+      {
+        "active": true,
+        "begin": "10:00",
+        "end": "12:00",
+        "name": "TOPS",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "10:00",
+        "end": "12:00",
+        "name": "United Health Care",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "10:15",
+        "end": "11:15",
+        "name": "Flex & Tone",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "10:30",
+        "end": "11:30",
+        "name": "Tai Chi",
+        "room": "Theresa"
+      },
+      {
+        "active": true,
+        "begin": "11:30",
+        "end": "13:30",
+        "name": "A Matter of Balance Class",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "11:30",
+        "end": "13:30",
+        "name": "Rotary Club",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "12:30",
+        "end": "16:30",
+        "name": "Mah Jong",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "13:00",
+        "end": "15:00",
+        "name": "Fibromyalgia Support Group",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "13:00",
+        "end": "16:00",
+        "name": "Boba Meeting",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "17:30",
+        "name": "After-school Program",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "18:00",
+        "name": "After-school Program NDB",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "15:30",
+        "end": "16:30",
+        "name": "Mat Pilates",
+        "room": "Ericka"
+      },
+      {
+        "active": true,
+        "begin": "16:00",
+        "end": "18:00",
+        "name": "ALS Support Group",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "16:30",
+        "end": "17:30",
+        "name": "Jazzercise",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "16:45",
+        "end": "17:45",
+        "name": "Hula & Hawaiian Culture",
+        "room": "Cynthia"
+      },
+      {
+        "active": true,
+        "begin": "17:45",
+        "end": "19:30",
+        "name": "Intermediate Line Dancing",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:30",
+        "name": "Albuquerque Modern Quilt Guild",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:30",
+        "name": "Practical Acting",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "18:15",
+        "end": "18:45",
+        "name": "Dance Fit",
+        "room": "Ericka"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "20:30",
+        "name": "ABQ Tea Party",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "20:30",
+        "name": "Elite Health Options",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "21:00",
+        "name": "Noreste Neighborhood Assc.",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "19:15",
+        "end": "20:30",
+        "name": "Aikido",
+        "room": "Chales Watkins"
+      },
+      {
+        "active": true,
+        "begin": "19:15",
+        "end": "20:15",
+        "name": "TaeKwondo",
+        "room": "Classroom 4"
+      }
+    ],
+    "day": "Tuesday May 1, 2018",
+    "end_margin": 15,
+    "start_margin": 75
+  },
+  "2018-05-02": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:05",
+        "end": "9:05",
+        "name": "Enhance Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "8:15",
+        "end": "9:15",
+        "name": "Aerobics",
+        "room": "Aerobics Room, Mia"
+      },
+      {
+        "active": true,
+        "begin": "8:30",
+        "end": "11:30",
+        "name": "Photography",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "10:00",
+        "name": "Bible Study",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "16:00",
+        "name": "Boba Meeting",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "10:00",
+        "name": "Spanish Level 2",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "12:00",
+        "name": "APS Transition Services",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "10:00",
+        "name": "UPS",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "9:05",
+        "end": "10:05",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:15",
+        "end": "12:00",
+        "name": "Excel 2010 & Up, Level 2",
+        "room": "Classroom 2"
+      },
+      {
+        "active": true,
+        "begin": "9:30",
+        "end": "10:30",
+        "name": "Gentle Exercise",
+        "room": "Mia"
+      },
+      {
+        "active": true,
+        "begin": "10:00",
+        "end": "13:00",
+        "name": "Poetry Critique Group",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "10:15",
+        "end": "11:15",
+        "name": "EnhanceFitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "10:15",
+        "end": "11:00",
+        "name": "Laughter Group",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "10:30",
+        "end": "11:30",
+        "name": "Spanish Inter/Advanced",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "12:00",
+        "end": "16:30",
+        "name": "Mah Jong",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "12:00",
+        "end": "16:00",
+        "name": "Shrinking Violets",
+        "room": "Classroom 11"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "17:30",
+        "name": "After-school Program",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "18:00",
+        "name": "After-school Program NDB",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "15:00",
+        "end": "17:00",
+        "name": "Japanese Study Group",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "16:00",
+        "end": "18:00",
+        "name": "Bead Time",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "16:30",
+        "end": "18:45",
+        "name": "Jazzercise",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "17:00",
+        "end": "18:00",
+        "name": "Yoga",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "17:15",
+        "end": "19:30",
+        "name": "Kiwanis Club/Coronado",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:00",
+        "name": "Memoir Writers of NM",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "20:45",
+        "name": "Albuquerque Road Runner",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "20:30",
+        "name": "Community Bible Study",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "20:30",
+        "name": "Ventura HOA",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "18:45",
+        "end": "20:45",
+        "name": "Kendo",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "20:30",
+        "name": "Corvairs",
+        "room": "Classroom 6"
+      }
+    ],
+    "day": "Wednesday May 2, 2018",
+    "end_margin": 0,
+    "start_margin": 60
+  },
+  "2018-05-03": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:05",
+        "end": "9:00",
+        "name": "Jazzercise",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "8:30",
+        "end": "9:30",
+        "name": "Yoga for Fitness",
+        "room": "Nowhere"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "16:00",
+        "name": "Boba Meeting",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "13:00",
+        "name": "Card Playing",
+        "room": "Classroom 11"
+      },
+      {
+        "active": true,
+        "begin": "9:05",
+        "end": "10:05",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:15",
+        "end": "12:00",
+        "name": "Excel 2010 & Up, Level 2",
+        "room": "Classroom 2"
+      },
+      {
+        "active": true,
+        "begin": "9:15",
+        "end": "10:10",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:30",
+        "end": "10:30",
+        "name": "Feldenkrias",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "9:30",
+        "end": "11:30",
+        "name": "UPS Store",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "10:15",
+        "end": "11:15",
+        "name": "Flex & Tone",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "10:30",
+        "end": "11:30",
+        "name": "Card Making",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "10:30",
+        "end": "13:00",
+        "name": "Chair Massage",
+        "room": "Lobby"
+      },
+      {
+        "active": true,
+        "begin": "10:30",
+        "end": "11:30",
+        "name": "Yoga",
+        "room": "Mindy Chaplin"
+      },
+      {
+        "active": true,
+        "begin": "12:00",
+        "end": "16:00",
+        "name": "Expressive Arts for Grief",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "12:00",
+        "end": "17:00",
+        "name": "Mah Jong",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "13:30",
+        "end": "15:00",
+        "name": "Beginning Line Dancing",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "14:00",
+        "end": "16:00",
+        "name": "Generation Homeschool",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "17:30",
+        "name": "After-school Program",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "18:00",
+        "name": "After-school Program NDB",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "16:00",
+        "name": "Chinese Folk Dance",
+        "room": "Nowhere"
+      },
+      {
+        "active": true,
+        "begin": "16:30",
+        "end": "18:45",
+        "name": "Jazzercise",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:00",
+        "name": "ARCCC",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "19:00",
+        "name": "Feldenkrais",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:00",
+        "name": "Photography",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "19:00",
+        "name": "Yoga for Fitness",
+        "room": "Nowhere"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "21:00",
+        "name": "Cyberscribes Writing Group",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "20:30",
+        "name": "Italian Club Meeting",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "20:30",
+        "name": "Aviation History Group",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "20:00",
+        "name": "Beginning Ballroom Dancing",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "19:15",
+        "end": "20:30",
+        "name": "Aikido",
+        "room": "Chales Watkins"
+      },
+      {
+        "active": true,
+        "begin": "19:15",
+        "end": "20:15",
+        "name": "Taekwondo",
+        "room": "Classroom 4"
+      }
+    ],
+    "day": "Thursday May 3, 2018",
+    "end_margin": 15,
+    "start_margin": 105
+  },
+  "2018-05-04": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "8:00",
+        "end": "12:00",
+        "name": "APS Transition Services",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "8:05",
+        "end": "9:05",
+        "name": "Enhance Fitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "8:15",
+        "end": "9:15",
+        "name": "Aerobics",
+        "room": "Aerobics Room"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "10:30",
+        "name": "Family Centered Prayer Battle",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "10:00",
+        "name": "Friendship Coffee",
+        "room": "Lobby"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "12:30",
+        "name": "Homeschool Science Co-Op",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "11:00",
+        "name": "Learn To Draw with Kelly",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "9:05",
+        "end": "10:05",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:30",
+        "end": "10:30",
+        "name": "Gentle Exercise",
+        "room": "Mia"
+      },
+      {
+        "active": true,
+        "begin": "10:00",
+        "end": "16:00",
+        "name": "Quilting Cluster",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "10:15",
+        "end": "11:15",
+        "name": "EnhanceFitness",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "11:00",
+        "end": "12:30",
+        "name": "Kundalini Yoga & Meditation",
+        "room": "Jenna"
+      },
+      {
+        "active": true,
+        "begin": "11:30",
+        "end": "13:30",
+        "name": "First Friday Writers",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "11:30",
+        "end": "12:30",
+        "name": "Pie Social",
+        "room": "Lobby"
+      },
+      {
+        "active": true,
+        "begin": "11:30",
+        "end": "12:30",
+        "name": "Tai Chi",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "12:00",
+        "end": "13:30",
+        "name": "ABQ Grief Support Partners",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "12:00",
+        "end": "17:00",
+        "name": "Mah Jong",
+        "room": "Cardroom"
+      },
+      {
+        "active": true,
+        "begin": "12:30",
+        "end": "13:30",
+        "name": "Spanish Level 1",
+        "room": "Communitry Room"
+      },
+      {
+        "active": true,
+        "begin": "13:00",
+        "end": "14:00",
+        "name": "Yoga",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "17:30",
+        "name": "After-school Program",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "14:30",
+        "end": "18:00",
+        "name": "After-school Program NDB",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "16:00",
+        "end": "16:30",
+        "name": "Hard Core Abs",
+        "room": "Ericka"
+      },
+      {
+        "active": true,
+        "begin": "17:00",
+        "end": "18:30",
+        "name": "Belly Dance Foundations",
+        "room": "Lisa Little"
+      },
+      {
+        "active": true,
+        "begin": "17:00",
+        "end": "20:00",
+        "name": "Tumbleweeds Toastmasters",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "19:30",
+        "name": "Aikido",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:00",
+        "name": "Cinco de Mayo Night",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:00",
+        "name": "FAPAC",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "20:30",
+        "name": "Wellness Presentation",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "19:30",
+        "name": "The Sound of Soul",
+        "room": "Classroom 3"
+      }
+    ],
+    "day": "Friday May 4, 2018",
+    "end_margin": 0,
+    "start_margin": 105
+  },
+  "2018-05-05": {
+    "classes": [
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "11:45",
+        "name": "Aikido",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "11:00",
+        "name": "Frontline Families",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "13:00",
+        "name": "Zumba",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "9:15",
+        "end": "11:15",
+        "name": "Drawing",
+        "room": "Classroom 11"
+      },
+      {
+        "active": true,
+        "begin": "9:30",
+        "end": "11:00",
+        "name": "Intermediate French Class",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "10:30",
+        "end": "14:30",
+        "name": "AARP Driver Safety",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "11:30",
+        "end": "15:00",
+        "name": "Canasta",
+        "room": "Room 10"
+      },
+      {
+        "active": true,
+        "begin": "11:30",
+        "end": "14:30",
+        "name": "Casting Coffee",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "12:00",
+        "end": "15:00",
+        "name": "Knitting Guild",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "12:30",
+        "end": "14:45",
+        "name": "Dance Workshop",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "13:00",
+        "end": "15:00",
+        "name": "Beginning Ballroom Dancing",
+        "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "13:00",
+        "end": "14:30",
+        "name": "Beginning Hebrew",
+        "room": "Classroom 3"
+      }
+    ],
+    "day": "Saturday May 5, 2018",
     "end_margin": 225,
     "start_margin": 465
   }
