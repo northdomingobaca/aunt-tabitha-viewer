@@ -906,6 +906,13 @@
       },
       {
         "active": true,
+        "begin": "17:30",
+        "end": "19:30",
+        "name": "Bead Society of NM General Meeting",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
         "begin": "18:00",
         "end": "20:00",
         "name": "Albuquerque Traders",
@@ -931,13 +938,6 @@
         "end": "20:30",
         "name": "Stand True Meeting",
         "room": "Classroom 4"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "20:30",
-        "name": "Bead Society of NM General Meeting",
-        "room": "Classroom 5"
       },
       {
         "active": true,
@@ -1005,6 +1005,13 @@
       {
         "active": true,
         "begin": "10:00",
+        "end": "11:00",
+        "name": "MedCare",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
+        "begin": "10:00",
         "end": "12:00",
         "name": "TOPS",
         "room": "Classroom 7"
@@ -1021,14 +1028,14 @@
         "begin": "11:00",
         "end": "12:00",
         "name": "Human Anatomy/Posture/Pain",
-        "room": "Classroom 4"
+        "room": "Classroom 3"
       },
       {
         "active": true,
         "begin": "11:30",
         "end": "13:30",
         "name": "Rotary Club",
-        "room": "Community Room"
+        "room": "Classroom 4"
       },
       {
         "active": true,
@@ -1041,7 +1048,7 @@
         "active": true,
         "begin": "13:00",
         "end": "15:00",
-        "name": "Albuquerque Fibromyalgia Support",
+        "name": "Fibromyalgia Support Group",
         "room": "Classroom 7"
       },
       {
@@ -1118,7 +1125,7 @@
         "active": true,
         "begin": "19:00",
         "end": "21:00",
-        "name": "Sisters in Crime Mystery Writers",
+        "name": "Sisters Crime Mystery Writers",
         "room": "Classroom 5"
       },
       {
@@ -1161,14 +1168,14 @@
         "begin": "8:30",
         "end": "11:30",
         "name": "ABQ Charm School",
-        "room": "Classroom 5"
+        "room": "Classroom 4"
       },
       {
         "active": true,
         "begin": "8:30",
         "end": "11:30",
         "name": "Photography",
-        "room": "Classroom 4"
+        "room": "Classroom 3"
       },
       {
         "active": true,
@@ -1295,13 +1302,6 @@
         "end": "19:30",
         "name": "Toastmaster",
         "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:30",
-        "name": "Bead Time",
-        "room": "Classroom 7"
       },
       {
         "active": true,
@@ -1494,6 +1494,13 @@
       },
       {
         "active": true,
+        "begin": "18:30",
+        "end": "20:30",
+        "name": "Vuneyard Estates Assoc.",
+        "room": "Classroom 5"
+      },
+      {
+        "active": true,
         "begin": "19:00",
         "end": "20:00",
         "name": "Beginning Ballroom Dancing",
@@ -1508,8 +1515,8 @@
       }
     ],
     "day": "Thursday Nov 29, 2018",
-    "end_margin": 60,
-    "start_margin": 165
+    "end_margin": 45,
+    "start_margin": 150
   },
   "2018-11-30": {
     "classes": [
@@ -1624,6 +1631,13 @@
         "end": "18:00",
         "name": "After-school NDB",
         "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:00",
+        "name": "Doberman Rescue of NM",
+        "room": "Community Room"
       },
       {
         "active": true,
