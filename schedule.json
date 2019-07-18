@@ -1,13 +1,6 @@
 {
-  "2019-07-22": {
+  "2019-07-08": {
     "classes": [
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "8:50",
-        "name": "Jazzercise",
-        "room": "Classroom 5"
-      },
       {
         "active": true,
         "begin": "8:05",
@@ -115,6 +108,13 @@
       },
       {
         "active": true,
+        "begin": "17:00",
+        "end": "20:00",
+        "name": "Global Trading Institute",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
         "begin": "17:45",
         "end": "19:00",
         "name": "Vinyasa Flow Yoga",
@@ -122,17 +122,10 @@
       },
       {
         "active": true,
-        "begin": "18:00",
-        "end": "20:30",
-        "name": "Stand True Meeting",
-        "room": "Classroom 4"
-      },
-      {
-        "active": true,
         "begin": "18:30",
         "end": "20:30",
-        "name": "Bead Society of NM General Meeting",
-        "room": "Classroom 5"
+        "name": "Bead Society of NM Board Meeting",
+        "room": "Classroom 7"
       },
       {
         "active": true,
@@ -150,13 +143,6 @@
       },
       {
         "active": true,
-        "begin": "18:30",
-        "end": "20:45",
-        "name": "Hand & Foot Card Game",
-        "room": "Cardroom"
-      },
-      {
-        "active": true,
         "begin": "19:15",
         "end": "20:45",
         "name": "Argentine Tango",
@@ -170,11 +156,11 @@
         "room": "Social Hall"
       }
     ],
-    "day": "Monday Jul 22, 2019",
-    "end_margin": 75,
-    "start_margin": 195
+    "day": "Monday Jul 8, 2019",
+    "end_margin": 120,
+    "start_margin": 285
   },
-  "2019-07-23": {
+  "2019-07-09": {
     "classes": [
       {
         "active": true,
@@ -182,6 +168,13 @@
         "end": "17:30",
         "name": "Summer Camp",
         "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "11:30",
+        "name": "Osteoporosis Screening",
+        "room": "Lobby"
       },
       {
         "active": true,
@@ -196,13 +189,6 @@
         "end": "10:10",
         "name": "Zumba",
         "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
-        "end": "12:00",
-        "name": "Embroidery Guild",
-        "room": "Community Room"
       },
       {
         "active": true,
@@ -234,6 +220,13 @@
       },
       {
         "active": true,
+        "begin": "11:15",
+        "end": "14:30",
+        "name": "Beta Sigma Phi",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
         "begin": "12:30",
         "end": "17:30",
         "name": "Summer Camp",
@@ -262,13 +255,6 @@
       },
       {
         "active": true,
-        "begin": "17:30",
-        "end": "20:00",
-        "name": "Networking Class",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
         "begin": "17:45",
         "end": "19:30",
         "name": "Intermediate Line Dancing",
@@ -284,9 +270,23 @@
       {
         "active": true,
         "begin": "18:00",
+        "end": "20:00",
+        "name": "Desert Ridge Place HOA",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
         "end": "20:30",
         "name": "Practical Acting",
         "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:30",
+        "name": "Society of Children's Book Writers",
+        "room": "Classroom 1"
       },
       {
         "active": true,
@@ -298,9 +298,9 @@
       {
         "active": true,
         "begin": "18:30",
-        "end": "20:45",
-        "name": "Sisters in Crime Mystery Writers",
-        "room": "Classroom 1"
+        "end": "21:00",
+        "name": "NE Area Command Meeting",
+        "room": "Classroom 5"
       },
       {
         "active": true,
@@ -317,25 +317,18 @@
         "room": "Classroom 4"
       }
     ],
-    "day": "Tuesday Jul 23, 2019",
-    "end_margin": 90,
-    "start_margin": 240
+    "day": "Tuesday Jul 9, 2019",
+    "end_margin": 60,
+    "start_margin": 180
   },
-  "2019-07-24": {
+  "2019-07-10": {
     "classes": [
       {
         "active": true,
         "begin": "8:00",
         "end": "11:00",
-        "name": "Brookline College Nursing",
+        "name": "Brookline College Nursing Students",
         "room": "Lobby"
-      },
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "8:50",
-        "name": "Jazzercise",
-        "room": "Classroom 5"
       },
       {
         "active": true,
@@ -409,6 +402,13 @@
       },
       {
         "active": true,
+        "begin": "11:00",
+        "end": "13:00",
+        "name": "Albuquerque Traders",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
         "begin": "12:30",
         "end": "17:30",
         "name": "Summer Camp",
@@ -430,10 +430,24 @@
       },
       {
         "active": true,
+        "begin": "14:00",
+        "end": "16:30",
+        "name": "Words Worth Writing Group",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
         "begin": "16:30",
         "end": "17:45",
         "name": "Yoga",
         "room": "Aerobics Room"
+      },
+      {
+        "active": true,
+        "begin": "17:00",
+        "end": "19:30",
+        "name": "Kiwanis of Coronado",
+        "room": "Classroom 3"
       },
       {
         "active": true,
@@ -457,11 +471,11 @@
         "room": "Social Hall"
       }
     ],
-    "day": "Wednesday Jul 24, 2019",
+    "day": "Wednesday Jul 10, 2019",
     "end_margin": 60,
-    "start_margin": 195
+    "start_margin": 165
   },
-  "2019-07-25": {
+  "2019-07-11": {
     "classes": [
       {
         "active": true,
@@ -495,15 +509,8 @@
         "active": true,
         "begin": "10:00",
         "end": "12:00",
-        "name": "Knitting Circle",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
-        "begin": "10:30",
-        "end": "11:30",
-        "name": "Card Making",
-        "room": "Classroom 7"
+        "name": "MedCore Questions & Answers",
+        "room": "Lobby"
       },
       {
         "active": true,
@@ -511,13 +518,6 @@
         "end": "11:30",
         "name": "Yoga",
         "room": "Aerobics Room"
-      },
-      {
-        "active": true,
-        "begin": "11:00",
-        "end": "12:30",
-        "name": "Beginners French",
-        "room": "Classroom 6"
       },
       {
         "active": true,
@@ -543,9 +543,9 @@
       {
         "active": true,
         "begin": "13:00",
-        "end": "14:30",
-        "name": "Lower Intermediate French",
-        "room": "Classroom 6"
+        "end": "15:00",
+        "name": "Expressive Arts Grief Support",
+        "room": "Classroom 7"
       },
       {
         "active": true,
@@ -584,10 +584,10 @@
       },
       {
         "active": true,
-        "begin": "17:30",
-        "end": "20:30",
-        "name": "NM Parents of Multiples",
-        "room": "Classroom 1"
+        "begin": "18:00",
+        "end": "21:00",
+        "name": "A.C.R.E.",
+        "room": "Classroom 5"
       },
       {
         "active": true,
@@ -601,7 +601,7 @@
         "begin": "18:00",
         "end": "20:00",
         "name": "Photography",
-        "room": "Community Room"
+        "room": "Classroom 1"
       },
       {
         "active": true,
@@ -613,9 +613,23 @@
       {
         "active": true,
         "begin": "18:30",
-        "end": "21:00",
-        "name": "RMFM",
+        "end": "20:30",
+        "name": "USATF of NM",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "20:30",
+        "name": "Dance",
         "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "21:00",
+        "name": "Duke City Flyers",
+        "room": "Community Room"
       },
       {
         "active": true,
@@ -632,11 +646,11 @@
         "room": "Classroom 4"
       }
     ],
-    "day": "Thursday Jul 25, 2019",
+    "day": "Thursday Jul 11, 2019",
     "end_margin": 45,
-    "start_margin": 150
+    "start_margin": 135
   },
-  "2019-07-26": {
+  "2019-07-12": {
     "classes": [
       {
         "active": true,
@@ -682,6 +696,13 @@
       },
       {
         "active": true,
+        "begin": "9:00",
+        "end": "12:30",
+        "name": "NMQA Art Quilt/Mixed Media",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
         "begin": "9:15",
         "end": "10:10",
         "name": "Zumba",
@@ -717,16 +738,9 @@
       },
       {
         "active": true,
-        "begin": "11:30",
-        "end": "13:00",
-        "name": "Birthday Cake",
-        "room": "Lobby"
-      },
-      {
-        "active": true,
         "begin": "12:00",
         "end": "13:30",
-        "name": "Albuquerque Grief Support",
+        "name": "Albuquerque Grief Support Partners",
         "room": "Classroom 6"
       },
       {
@@ -745,17 +759,10 @@
       },
       {
         "active": true,
-        "begin": "13:30",
-        "end": "15:30",
-        "name": "Blue Stalkings Book Club Discussion",
-        "room": "Classroom 7"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:45",
-        "name": "SAGE Game Night",
-        "room": "Community Room"
+        "begin": "18:30",
+        "end": "20:30",
+        "name": "Unified Praise",
+        "room": "Classroom 6"
       },
       {
         "active": true,
@@ -779,18 +786,18 @@
         "room": "Classroom 3"
       }
     ],
-    "day": "Friday Jul 26, 2019",
+    "day": "Friday Jul 12, 2019",
     "end_margin": 45,
     "start_margin": 150
   },
-  "2019-07-27": {
+  "2019-07-13": {
     "classes": [
       {
         "active": true,
         "begin": "9:00",
-        "end": "13:00",
-        "name": "Chinese American  Speaker Series",
-        "room": "Classroom 4"
+        "end": "12:00",
+        "name": "Alpha Kappa Alpha",
+        "room": "Classroom 5"
       },
       {
         "active": true,
@@ -823,23 +830,9 @@
       {
         "active": true,
         "begin": "9:30",
-        "end": "11:45",
-        "name": "Aikdo",
-        "room": "Classroom 5"
-      },
-      {
-        "active": true,
-        "begin": "9:30",
         "end": "11:00",
         "name": "Intermediate French Class",
         "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "10:00",
-        "end": "12:00",
-        "name": "Home Composting Basics",
-        "room": "Classroom 3"
       },
       {
         "active": true,
@@ -857,25 +850,25 @@
       },
       {
         "active": true,
-        "begin": "11:30",
+        "begin": "12:00",
+        "end": "15:00",
+        "name": "NM Polymer Clay Guild",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "12:30",
         "end": "14:30",
-        "name": "Family Center Prayer Battle",
+        "name": "N M State Poetry Society",
         "room": "Classroom 6"
       }
     ],
-    "day": "Saturday Jul 27, 2019",
+    "day": "Saturday Jul 13, 2019",
     "end_margin": 225,
     "start_margin": 465
   },
-  "2019-07-29": {
+  "2019-07-15": {
     "classes": [
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "8:50",
-        "name": "Jazzercise",
-        "room": "Classroom 5"
-      },
       {
         "active": true,
         "begin": "8:05",
@@ -962,6 +955,13 @@
       },
       {
         "active": true,
+        "begin": "16:00",
+        "end": "18:00",
+        "name": "Women Veterans of NM",
+        "room": "Classroom 3"
+      },
+      {
+        "active": true,
         "begin": "16:30",
         "end": "17:30",
         "name": "Indian Classical Dance",
@@ -976,24 +976,10 @@
       },
       {
         "active": true,
-        "begin": "17:00",
-        "end": "20:00",
-        "name": "Stand True Meeting",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
         "begin": "17:45",
         "end": "19:00",
         "name": "Vinyasa Flow Yoga",
         "room": "Aerobics Room"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:00",
-        "name": "Albuquerque Traders",
-        "room": "Classroom 7"
       },
       {
         "active": true,
@@ -1008,6 +994,13 @@
         "end": "20:30",
         "name": "Cyberscribes",
         "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "18:30",
+        "end": "20:00",
+        "name": "HEAR",
+        "room": "Classroom 7"
       },
       {
         "active": true,
@@ -1031,11 +1024,11 @@
         "room": "Social Hall"
       }
     ],
-    "day": "Monday Jul 29, 2019",
+    "day": "Monday Jul 15, 2019",
     "end_margin": 75,
     "start_margin": 195
   },
-  "2019-07-30": {
+  "2019-07-16": {
     "classes": [
       {
         "active": true,
@@ -1043,6 +1036,13 @@
         "end": "17:30",
         "name": "Summer Camp",
         "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "12:00",
+        "name": "Watercolor Group",
+        "room": "Classroom 6"
       },
       {
         "active": true,
@@ -1096,9 +1096,16 @@
       {
         "active": true,
         "begin": "15:30",
-        "end": "19:30",
-        "name": "Japan Counselor Service",
-        "room": "Community Room"
+        "end": "18:30",
+        "name": "UNM LARC",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "16:30",
+        "end": "20:30",
+        "name": "Game Night W.I.T.",
+        "room": "Classroom 1"
       },
       {
         "active": true,
@@ -1116,13 +1123,6 @@
       },
       {
         "active": true,
-        "begin": "17:30",
-        "end": "19:30",
-        "name": "ABQ Modern Quilt Guild",
-        "room": "Classroom 3"
-      },
-      {
-        "active": true,
         "begin": "17:45",
         "end": "19:30",
         "name": "Intermediate Line Dancing",
@@ -1133,7 +1133,7 @@
         "begin": "18:00",
         "end": "20:00",
         "name": "Bible Study for Women",
-        "room": "Classroom 6"
+        "room": "Classroom 7"
       },
       {
         "active": true,
@@ -1141,6 +1141,13 @@
         "end": "20:30",
         "name": "Practical Acting",
         "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "18:00",
+        "end": "20:00",
+        "name": "School Daze",
+        "room": "Community Room"
       },
       {
         "active": true,
@@ -1164,26 +1171,12 @@
         "room": "Classroom 4"
       }
     ],
-    "day": "Tuesday Jul 30, 2019",
-    "end_margin": 90,
-    "start_margin": 240
+    "day": "Tuesday Jul 16, 2019",
+    "end_margin": 60,
+    "start_margin": 180
   },
-  "2019-07-31": {
+  "2019-07-17": {
     "classes": [
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "11:00",
-        "name": "Brookline College Nursing",
-        "room": "Lobby"
-      },
-      {
-        "active": true,
-        "begin": "8:00",
-        "end": "8:50",
-        "name": "Jazzercise",
-        "room": "Classroom 5"
-      },
       {
         "active": true,
         "begin": "8:05",
@@ -1197,13 +1190,6 @@
         "end": "9:15",
         "name": "Aerobics",
         "room": "Aerobics Room"
-      },
-      {
-        "active": true,
-        "begin": "8:30",
-        "end": "12:30",
-        "name": "Japan Counselor Service",
-        "room": "Classroom 1"
       },
       {
         "active": true,
@@ -1225,6 +1211,13 @@
         "end": "10:00",
         "name": "Bible Study",
         "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "11:00",
+        "name": "GEHM Clinic",
+        "room": "Lobby"
       },
       {
         "active": true,
@@ -1298,6 +1291,13 @@
       },
       {
         "active": true,
+        "begin": "17:45",
+        "end": "19:15",
+        "name": "Toastmasters \"Off-the-Cuff\"",
+        "room": "Classroom 6"
+      },
+      {
+        "active": true,
         "begin": "18:30",
         "end": "20:30",
         "name": "Community Bible Study",
@@ -1311,11 +1311,11 @@
         "room": "Social Hall"
       }
     ],
-    "day": "Wednesday Jul 31, 2019",
-    "end_margin": 45,
-    "start_margin": 165
+    "day": "Wednesday Jul 17, 2019",
+    "end_margin": 60,
+    "start_margin": 195
   },
-  "2019-08-01": {
+  "2019-07-18": {
     "classes": [
       {
         "active": true,
@@ -1323,6 +1323,13 @@
         "end": "17:30",
         "name": "Summer Camp",
         "room": "Classroom 5"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "10:00",
+        "name": "Qi Gong",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
@@ -1340,17 +1347,17 @@
       },
       {
         "active": true,
-        "begin": "10:30",
-        "end": "11:30",
-        "name": "Card Making",
-        "room": "Classroom 7"
+        "begin": "10:00",
+        "end": "12:00",
+        "name": "MedCore Questions & Answers",
+        "room": "Lobby"
       },
       {
         "active": true,
-        "begin": "11:00",
-        "end": "12:30",
-        "name": "Beginners French",
-        "room": "Classroom 6"
+        "begin": "10:30",
+        "end": "11:30",
+        "name": "Yoga",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
@@ -1362,6 +1369,13 @@
       {
         "active": true,
         "begin": "12:30",
+        "end": "14:30",
+        "name": "Multiple Sclerosis Self-Help",
+        "room": "Classroom 1"
+      },
+      {
+        "active": true,
+        "begin": "12:30",
         "end": "17:30",
         "name": "Summer Camp",
         "room": "Classroom 4"
@@ -1369,9 +1383,9 @@
       {
         "active": true,
         "begin": "13:00",
-        "end": "14:30",
-        "name": "Lower Intermediate French",
-        "room": "Classroom 6"
+        "end": "15:00",
+        "name": "Expressive Arts Grief Support",
+        "room": "Classroom 7"
       },
       {
         "active": true,
@@ -1389,17 +1403,24 @@
       },
       {
         "active": true,
+        "begin": "14:30",
+        "end": "16:00",
+        "name": "Chinese Folk Dance",
+        "room": "Aerobics Room"
+      },
+      {
+        "active": true,
+        "begin": "16:30",
+        "end": "17:30",
+        "name": "Indian Classical Dance",
+        "room": "Aerobics Room"
+      },
+      {
+        "active": true,
         "begin": "16:30",
         "end": "18:45",
         "name": "Jazzercise",
         "room": "Social Hall"
-      },
-      {
-        "active": true,
-        "begin": "18:00",
-        "end": "20:00",
-        "name": "ARCCC Chaplaine",
-        "room": "Classroom 7"
       },
       {
         "active": true,
@@ -1417,17 +1438,10 @@
       },
       {
         "active": true,
-        "begin": "18:30",
-        "end": "19:30",
-        "name": "Carmel HOA",
-        "room": "Classroom 6"
-      },
-      {
-        "active": true,
-        "begin": "18:30",
-        "end": "20:30",
-        "name": "Italian Club Meeting",
-        "room": "Community Room"
+        "begin": "18:00",
+        "end": "19:00",
+        "name": "Yoga",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
@@ -1440,8 +1454,15 @@
         "active": true,
         "begin": "19:00",
         "end": "20:30",
-        "name": "Aviation History Group",
-        "room": "Classroom 5"
+        "name": "Dance",
+        "room": "Classroom 7"
+      },
+      {
+        "active": true,
+        "begin": "19:15",
+        "end": "20:45",
+        "name": "Aikido",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
@@ -1451,11 +1472,11 @@
         "room": "Classroom 4"
       }
     ],
-    "day": "Thursday Aug 1, 2019",
-    "end_margin": 75,
-    "start_margin": 195
+    "day": "Thursday Jul 18, 2019",
+    "end_margin": 60,
+    "start_margin": 180
   },
-  "2019-08-02": {
+  "2019-07-19": {
     "classes": [
       {
         "active": true,
@@ -1470,6 +1491,13 @@
         "end": "9:05",
         "name": "Enhance Fitness",
         "room": "Social Hall"
+      },
+      {
+        "active": true,
+        "begin": "8:15",
+        "end": "9:15",
+        "name": "Aerobics",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
@@ -1501,10 +1529,10 @@
       },
       {
         "active": true,
-        "begin": "10:00",
-        "end": "12:00",
-        "name": "Sunshine Dental",
-        "room": "Lobby"
+        "begin": "9:30",
+        "end": "10:30",
+        "name": "Gentle Exersice",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
@@ -1522,17 +1550,10 @@
       },
       {
         "active": true,
-        "begin": "11:30",
+        "begin": "11:00",
         "end": "12:30",
-        "name": "Pie Social",
-        "room": "Lobby"
-      },
-      {
-        "active": true,
-        "begin": "11:30",
-        "end": "12:30",
-        "name": "Tai Chi",
-        "room": "Classroom 7"
+        "name": "Kundalini Yoga & Meditation",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
@@ -1550,17 +1571,17 @@
       },
       {
         "active": true,
-        "begin": "17:00",
-        "end": "20:00",
-        "name": "Tumbleweeds Toastmasters",
-        "room": "Community Room"
-      },
-      {
-        "active": true,
         "begin": "18:30",
         "end": "20:30",
         "name": "Unified Praise",
         "room": "Classroom 6"
+      },
+      {
+        "active": true,
+        "begin": "19:00",
+        "end": "20:30",
+        "name": "Dance Team for Fitness & Happiness",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
@@ -1577,12 +1598,26 @@
         "room": "Classroom 3"
       }
     ],
-    "day": "Friday Aug 2, 2019",
-    "end_margin": 135,
-    "start_margin": 330
+    "day": "Friday Jul 19, 2019",
+    "end_margin": 150,
+    "start_margin": 375
   },
-  "2019-08-03": {
+  "2019-07-20": {
     "classes": [
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "13:00",
+        "name": "ABQ Woodworkers",
+        "room": "Classroom 4"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "11:00",
+        "name": "Chinese Folk Dance",
+        "room": "Aerobics Room"
+      },
       {
         "active": true,
         "begin": "9:00",
@@ -1593,9 +1628,16 @@
       {
         "active": true,
         "begin": "9:00",
-        "end": "14:45",
-        "name": "NM Woodturners",
-        "room": "Classroom 4"
+        "end": "11:00",
+        "name": "NM Japanese Language \"Moshi Moshi\"",
+        "room": "Community Room"
+      },
+      {
+        "active": true,
+        "begin": "9:00",
+        "end": "13:00",
+        "name": "Survivorship Breast Cancer",
+        "room": "Classroom 5"
       },
       {
         "active": true,
@@ -1620,20 +1662,20 @@
       },
       {
         "active": true,
-        "begin": "10:30",
-        "end": "14:30",
-        "name": "AARP Driver Safety",
-        "room": "Classroom 1"
+        "begin": "11:15",
+        "end": "13:00",
+        "name": "Kung Fu",
+        "room": "Aerobics Room"
       },
       {
         "active": true,
-        "begin": "12:00",
-        "end": "15:00",
-        "name": "Knitting Guild",
-        "room": "Classroom 7"
+        "begin": "11:30",
+        "end": "14:45",
+        "name": "League of Women Voters",
+        "room": "Classroom 6"
       }
     ],
-    "day": "Saturday Aug 3, 2019",
+    "day": "Saturday Jul 20, 2019",
     "end_margin": 225,
     "start_margin": 465
   }
